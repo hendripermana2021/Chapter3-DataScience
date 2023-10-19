@@ -7,7 +7,7 @@ HR professionals generally lag behind with respect to analytics and data visuali
 ## Dataset
 https://raw.githubusercontent.com/Rietaros/kampus_merdeka/main/HRDataset_v14.csv
 
-Task
+## Task
 1. Answer multiple aggregations questions using Pandas. (please refer to .ipynb for detailed questions)
 2. Perform EDA on the target to find out how many feature variables are related to the termination of an employee's employment. (Most reasons, by department, by gender, etc.) Create data visualization according to EDA Steps (minimum 5 visualizations). Give us an insight from this step.
 3. Perform Machine Learning modeling to predict employee termination.
